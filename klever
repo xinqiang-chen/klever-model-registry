@@ -1,1 +1,2 @@
+RUN docker login https://docker.pkg.github.com -u xinqiang-chen -p 0beed0dfb92dd9d355baa13ae7e7df4d3e2e84fa
 FROM docker.pkg.github.com/kleveross/klever-model-registry/klever-model-registry:latest
