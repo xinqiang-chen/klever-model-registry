@@ -1,0 +1,1 @@
+FROM docker.pkg.github.com/kleveross/klever-model-registry/klever-model-registry:latest
